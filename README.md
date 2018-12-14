@@ -261,3 +261,10 @@ The [BSD 3-Clause license][bsd].
 [i14]: https://github.com/PuerkitoBio/gocrawl/issues/14
 [i55]: https://github.com/PuerkitoBio/gocrawl/issues/55
 [tmatsuo]: https://github.com/tmatsuo
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
